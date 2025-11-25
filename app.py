@@ -1,4 +1,4 @@
-num = 8
+num = input("enter a number")
 if num % 2 == 0
     print("even number")
 else:
